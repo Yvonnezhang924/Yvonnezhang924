@@ -23,5 +23,5 @@ You can click the Preview link to take a look at your changes.
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,mysql,postgres,redis,mongodb)](https://skillicons.dev)
 
 - **Tools**
-- 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,mysql,postgres,redis,mongodb)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=linux,nginx,kafka,rabbitmq,jenkins,docker,git,postman)](https://skillicons.dev)
