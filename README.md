@@ -3,7 +3,7 @@
 - 🔅 Currently pursuing my master degree in **Information Sciences** at **University of Illinois at Urbana-Champaign**.
 - 👩‍💻 Ex Research Intern @ Bank of China
 - 🔛 Seeking **25 SDE Summer** Internship, and **26 New Grad** roles.
-- 📫 Feel free to reachout me: [yiwenzhang924@gmail.com](mailto:yiwen19@illinois.com)
+- 📫 Feel free to reachout me: [yiwenzhang924@gmail.com](mailto:yiwen19@illinois.edu)
 
 <!---
 Yvonnezhang924/Yvonnezhang924 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
