@@ -2,7 +2,7 @@
 
 - 🔅 Currently pursuing my master degree in **Information Sciences** at **University of Illinois at Urbana-Champaign**.
 - 👩‍💻 Incoming SDE Intern @ AWS, Ex Research Intern @ Bank of China
-- 🔛 Seeking **25 SDE Summer** Internship, and **26 New Grad** roles.
+- 🔛 Seeking **26 New Grad SDE** positions.
 - 📫 Feel free to reachout me: [yiwen19@illinois.edu](mailto:yiwen19@illinois.edu)
 
 <!---
