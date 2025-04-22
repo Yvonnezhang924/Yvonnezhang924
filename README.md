@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AFE9&width=435&lines=Hey+there!+I'm+Yiwen.;Welcome+to+my+Github!)](https://git.io/typing-svg)
 
-- 🔅 Currently pursuing my master degree in **Information Sciences** at **University of Illinois at Urbana-Champaign**.
+- 🔅 Currently pursuing my master degree in **Information Sciences** at **University of Illinois at Urbana-Champaign**
 - 👩‍💻 Incoming SDE Intern @ AWS, Ex Research Intern @ Bank of China
-- 🔛 Seeking **26 New Grad SDE** positions.
+- 🔛 Seeking **26 New Grad SDE** positions
 - 📫 Feel free to reachout me: [yiwen19@illinois.edu](mailto:yiwen19@illinois.edu)
 
 <!---
