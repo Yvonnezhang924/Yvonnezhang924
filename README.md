@@ -26,5 +26,3 @@ You can click the Preview link to take a look at your changes.
 
 [![My Skills](https://skillicons.dev/icons?i=linux,nginx,kafka,rabbitmq,jenkins,docker,git,postman)](https://skillicons.dev)
 
-
-github-user-contribution.svg
