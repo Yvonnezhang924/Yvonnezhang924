@@ -26,3 +26,5 @@ You can click the Preview link to take a look at your changes.
 
 [![My Skills](https://skillicons.dev/icons?i=linux,nginx,kafka,rabbitmq,jenkins,docker,git,postman)](https://skillicons.dev)
 
+![snake gif](https://raw.githubusercontent.com/Yvonnezhang924/snk/output/github-contribution-grid-snake.svg)
+
