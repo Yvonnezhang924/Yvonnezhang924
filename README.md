@@ -7,8 +7,8 @@
 </picture>
 
 - 🔅 Currently pursuing my master degree in **Information Sciences** at **University of Illinois at Urbana-Champaign**
-- 👩‍💻 SDE Intern @ AWS Lambda, Research Intern @ Bank of China
-- 🔛 Seeking **26 New Grad SDE** positions
+- 👩‍💻 Incoming SDE @ AWS Lambda, Research Intern @ Bank of China
+- 🔛 Seeking **SDE** positions
 - 📫 Feel free to reachout me: [yiwen19@illinois.edu](mailto:yiwen19@illinois.edu)
 
 <!---
