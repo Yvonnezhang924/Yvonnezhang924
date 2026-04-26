@@ -6,8 +6,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yvonnezhang924/Yvonnezhang924/output/github-contribution-grid-snake.svg">
 </picture>
 
-- 🔅 Currently pursuing my master degree in **Information Sciences** at **University of Illinois at Urbana-Champaign**
-- 👩‍💻 Incoming SDE @ AWS Lambda
+- 👩‍💻 SDE @ AWS Lambda, MSIM@UIUC
 - 👋 Prev SDE Intern @ Amazon Web Service, Prev Research Intern @ Bank of China
 - 📫 Feel free to reachout me: [yiwen19@illinois.edu](mailto:yiwen19@illinois.edu)
 
